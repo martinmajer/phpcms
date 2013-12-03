@@ -1,0 +1,13 @@
+.form-edit {
+    margin-top: 20px;
+}
+
+.input-title {
+    font-size: 175% !important;
+    height: 40px !important;
+    line-height: 40px !important;
+}
+
+.mceEditor + .form-inline  {
+    margin-top: 10px;
+}
